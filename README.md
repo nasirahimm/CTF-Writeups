@@ -3,6 +3,10 @@
 > Step-by-step walkthroughs of Capture The Flag rooms and challenges.  
 > Written for beginners — focused on methodology, tools, and lessons learned.
 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%205%25-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/nasir.aahim)
+![Rooms](https://img.shields.io/badge/Rooms%20Completed-126-blue)
+![Badges](https://img.shields.io/badge/Badges-15-orange)
+
 -----
 
 ## 📋 Writeup Index
@@ -14,6 +18,8 @@
 |Pickle Rick|Web Exploitation, Linux Enumeration|🟢 Easy    |Nmap, Gobuster, Linux CLI   |[Read on Medium →](https://medium.com/@nasir-ahim)|
 |Corridor   |IDOR, Web Security                 |🟢 Easy    |Burp Suite, URL manipulation|[Read on Medium →](https://medium.com/@nasir-ahim)|
 |TakeOver   |Subdomain Enumeration, Recon       |🟢 Easy    |Nmap, DNS recon tools       |[Read on Medium →](https://medium.com/@nasir-ahim)|
+
+*More writeups coming soon…*
 
 -----
 
@@ -35,6 +41,7 @@ Every writeup follows this structure:
 Nmap          — Port scanning and service detection
 Gobuster      — Directory and subdomain brute-forcing
 Burp Suite    — Web traffic interception and manipulation
+SQLMap        — SQL injection testing
 Wireshark     — Network packet analysis
 Netcat        — Reverse shells and connections
 Linux CLI     — File navigation, privilege escalation
@@ -43,11 +50,15 @@ Splunk        — Log analysis and SIEM
 
 -----
 
-## 📈 Progress Tracker
+## 📈 TryHackMe Progress
 
-|Platform |Rooms Completed|Badges                            |
-|---------|---------------|----------------------------------|
-|TryHackMe|3+             |Advent of Cyber 2025, Pre Security|
+|Stat             |Value           |
+|-----------------|----------------|
+|🏆 Global Rank    |#91,102 — Top 5%|
+|🚪 Rooms Completed|126             |
+|🏅 Badges Earned  |15              |
+
+**Rare Badges:** Pentesting Principles • Burp’ed • System Sniffer • Intro to Web Hacking • Shield Apprentice • Sword Apprentice • Advent of Cyber 2025
 
 -----
 
@@ -55,7 +66,7 @@ Splunk        — Log analysis and SIEM
 
 - 🌐 [Medium Writeups](https://medium.com/@nasir-ahim)
 - 💼 [LinkedIn](https://linkedin.com/in/nasir-ahim)
-- 🔴 [TryHackMe Profile](https://tryhackme.com/p/nasirAhim)
+- 🔴 [TryHackMe Profile](https://tryhackme.com/p/nasir.aahim)
 
 -----
 
